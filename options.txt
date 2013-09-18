@@ -1,0 +1,3 @@
+Allow-Minecraft:true
+Enable-KeyCommand:true
+Key:@_
