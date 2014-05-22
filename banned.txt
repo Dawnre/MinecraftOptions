@@ -2,4 +2,3 @@ doming
 trada
 lesan
 seller
-helton
